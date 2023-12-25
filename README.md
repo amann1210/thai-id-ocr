@@ -2,6 +2,8 @@
 
 This web application allows users to perform Optical Character Recognition (OCR) on Thai ID cards. It provides a simple and user-friendly interface for uploading images, extracting text through OCR, and editing the recognized text.
 
+CHECK OUT DEMO : https://youtu.be/FxHazXUxRc8
+ 
 ## Features
 
 - **OCR Section:**
