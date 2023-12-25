@@ -2,7 +2,7 @@ import { v4 as uuidv4 } from 'uuid';
 import { ImageAnnotatorClient } from '@google-cloud/vision';
 import OCRData from '../model/ocrDataModel.js';
 const visionClient = new ImageAnnotatorClient({
-  keyFilename: 'ocr-assingment-2cc59140eaef.json',
+  keyFilename: 'ocr-assingment-16c843a4efea.json',
 });
 
 
