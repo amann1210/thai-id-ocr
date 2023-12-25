@@ -1,0 +1,50 @@
+/* src/App.css */
+.app-container {
+  max-width: 600px;
+  margin: auto;
+  padding: 20px;
+  background-color: #f0f0f0;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.app-header {
+  color: #333;
+}
+
+.upload-button {
+  margin-top: 10px;
+  padding: 10px 15px;
+  background-color: #4caf50;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.result-container {
+  margin-top: 20px;
+}
+
+.success-message {
+  color: #4caf50;
+}
+
+.get-ocr-button {
+  margin-top: 10px;
+  padding: 10px 15px;
+  background-color: #2196f3;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.ocr-data-container {
+  margin-top: 20px;
+}
+
+.ocr-data-header {
+  color: #333;
+  margin-bottom: 10px;
+}

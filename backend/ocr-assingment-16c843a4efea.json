@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "ocr-assingment",
+  "private_key_id": "16c843a4efeaa2d67a66bb771a725ea9adace64a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCSaBBIOgSWeT98\n4yYx5PBrOZsV/8+a70D0ILvBcs1Q7Bw+3hbgSPcZGUL3l+5zzBh4et4r9AGHQR/N\ndCF7RN8Sh2OVLj5BDk8Yrwvwd3NDJpWa58ie0XORRSVK6H8QNg+Mh2ogOe600xfW\npJPmSUwhhcW3237nMm3yYtx5lPTpIfWMLR70tsPgIbsTwPn83EivejUbSQQJ3kEU\netmt1qoOLiEOXNTqbPJRgFsqB0tmain84Kr+Yibh+zm3mSLMZtRXJla3CC6IcUrM\nZ8gCTCGhBsQCbwofCjYrkKzW7eIQRoZ34elj4ijlGsbNx2gH/BBJzf2F+ReDdc2V\nwsU3q7mdAgMBAAECggEABKRys7k0CqNwmgcUrHglqXi+2ROh/R5npFx8J6LgxzED\n2kVHjp5+e1f1a1o9doPuJYMPE9ZQzOQJqQWgLcNeAXC0MMRLhA7Hy+QTdr4K54IY\nzbvz/OYH8JjNMtL5e6wDK5t8B+aRkgx8t1LDpjjRYBS/IFimhv7VEd6ecbQbKfmp\nHH8nc2mcAHueuSHf7UiGJY1CnDcfwEA2o3Y1HpLA50oyHWBPmWahtS3GGwGIu85G\n4yppBJ5/6OjXVKvoZaUl9uDSgtrODw36fiDyyFT5yd1h4ZyP3at3OTTEX+OeGPmQ\nA8wtsLtkNu7ZoVXQ5pTe1b7egdWKwSO0GXvQgRPPTwKBgQDFGfP1elv7U8ApDZFI\nN+g90TokquCuKFUAeNCySkpUrFbei1q46mkZGj+F+t96KIdIemJZn7U4pQ8mm51r\nMpW0gQhjFnL72ofk+npW3NTlVbt3XcXMDXUl5sK1gDEpP7Yub/WZzh+F9SahwJqQ\nSBav5YPcaKyROqdAyOPdpt4fnwKBgQC+KAGC8TZz+tFaDYEHc+m6UUvIwhcbxo/h\nm3+0gTcs7wprecc3LJfu+ETNJ5yI03lSGYL9He/xLlranPIQIW46CRgs5qBYTm9v\nMaDajLdKoN14Zp4Yud4UKj7+r7F587oeYhk9U7h+A7FnvFhJijz8oYbLLVUGqZPL\n0DHys/WtQwKBgAScR82dMBuf6OXM8HINBLy1cTO8X4cTYHGjYdZZ0IVMhrer8NJU\ngWLZ71R1+tZDrm5ulnBcQQPzMHiJuVPxmfjf789JjiUABp+/kC8J+Vzn9XukUOUm\nB3B8hl9ygTPizqMlcUxIuwoKIv4zoCnx1b4Fk2ELfcXj5leom1Pq/FUnAoGAdr3M\nk9PESRAqgq1EET9UiEATrr1kaLfJSPws9q5poely/EIDIHT8OwFVFTbTDK3haF79\n6Mk098oWecTfcystBZiAPCmXnwz7kNfQtiiAnF1vbqvFtXL7NmRbCfb0QE7tveNM\nF3ucDTSJJ1n5V5K3GppS7bTVD1/9JpxPVFsD4rkCgYEAlJCIGf1CmeB/T5zBtzFT\nTNQGGN/rnpQ32xg8dRg4W9P3+AN7irw8vaqfjAqyeCk8V3ieirkZliramhZcZiCA\nHRMGkhAK5PGPADSywAQl7L8qRfjrVQX+QeHC+cffV+BSmwWOkJlSFN6kBc201cK+\nR6HWiHY/tnCRrjO6dalcXqk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "ocr-assingment@ocr-assingment.iam.gserviceaccount.com",
+  "client_id": "112746054801634138494",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ocr-assingment%40ocr-assingment.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
